@@ -1,59 +1,304 @@
+# 👨‍💻 Igor Rafael Marcelo Morais
+
 <div align="center">
 
-  <h2>
-    👋 Hi! My name is Igor Rafael and I'm a Computer Engineering Student and Junior Developer, from Itajubá, Minas Gerais
-  </h2>
+### 🚀 Desenvolvedor Full Stack | Estudante de Engenharia da Computação | Sistemas Embarcados & VANTs
 
-  <br/>
+📍 Itajubá - Minas Gerais, Brasil
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Igorgaah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igorgaah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+*"Transformando problemas complexos em soluções eficientes através da engenharia de software."*
 
-  <br/><br/>
+<br>
 
-  <!-- Tech Stack -->
-  <div style="margin: 20px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  </div>
+<img src="https://github-readme-stats.vercel.app/api?username=igorgaah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgaah&layout=compact&theme=tokyonight"/>
 
-  <!-- Contatos -->
-  <div>
-    <a href="https://www.instagram.com/igorrafaelmorais/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-    </a>
-    <a href="mailto:igorgaah@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/igorrafaelmmorais/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-    </a>
-    <a href="srmustecho" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-    </a>
-  </div>
+</div>
 
-  <br/><br/>
+---
 
-  <!-- Snake animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+# 🚀 Sobre Mim
+
+🎓 Graduando em Engenharia da Computação pela UNIFEI.
+
+💼 Desenvolvedor Full Stack com experiência em desenvolvimento web, APIs RESTful, microsserviços, bancos de dados e integração entre sistemas.
+
+🏢 Experiência profissional em:
+
+- Honeywell
+- Comprovei by NsTech
+- Equipe Digital
+- Universidade Federal de Itajubá
+
+💡 Interesses:
+
+- Engenharia de Software
+- Sistemas Embarcados
+- RTOS
+- UAVs / VANTs
+- Telemetria
+- Sistemas Críticos
+- Cloud Computing
+- Arquitetura de Software
+- Microsserviços
+
+---
+
+# ⚡ Stack Principal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,dotnet,nestjs,nodejs,php,python,cpp,cs,mysql,postgres,mongodb,docker,git,linux" />
+
+</div>
+
+---
+
+# 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<img width="10" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+
+</div>
+
+---
+
+# 🔭 Atualmente Trabalhando Com
+
+- PHP
+- Laravel
+- APIs RESTful
+- MySQL
+- PostgreSQL
+- JavaScript
+- Bootstrap
+- Docker
+- Git/GitHub
+
+---
+
+# 📚 Atualmente Estudando
+
+- .NET 8
+- Arquitetura de Microsserviços
+- Sistemas Embarcados
+- RTOS
+- Telemetria para UAVs
+- Tolerância a Falhas
+- Docker
+- Linux
+
+---
+
+# 💼 Experiência Profissional
+
+## 🏢 Equipe Digital (Atual)
+
+- Desenvolvimento e manutenção de aplicações web utilizando PHP
+- Criação e consumo de APIs RESTful
+- Integração entre sistemas
+- MySQL e PostgreSQL
+- Testes automatizados
+- Deploy e manutenção de servidores
+
+## 🏢 Comprovei by NsTech
+
+- Desenvolvimento Back-End
+- PHP
+- Node.js
+- Integração de sistemas
+- Correção de bugs
+- Implementação de novas funcionalidades
+
+## 🏢 Honeywell
+
+- Desenvolvimento Front-End com ReactJS
+- Microsserviços em Node.js
+- Integrações com APIs externas
+- Planejamento e execução de testes
+- Documentação técnica
+- Modelagem de processos
+
+## 🏢 Universidade Federal de Itajubá (UNIFEI)
+
+Projetos desenvolvidos:
+
+- Sistema de Reserva de Salas
+- Sistema de Cotas
+- Automação de processos
+- Sistemas Web Institucionais
+- WordPress
+- Docker
+- PHP e MySQL
+
+---
+
+# 🚀 Projetos em Destaque
+
+### 🎓 Sistema de Reserva de Salas
+
+Sistema desenvolvido para gerenciamento de reservas acadêmicas na UNIFEI.
+
+### 🎓 Sistema de Cotas
+
+Sistema criado para auxiliar candidatos na identificação de categorias de cotas sociais.
+
+### 🌐 Landing Pages e Sistemas Web
+
+Projetos desenvolvidos como freelancer utilizando HTML, CSS, JavaScript e PHP.
+
+### 📚 Artigos Científicos
+
+Pesquisas envolvendo:
+
+- Sistemas Embarcados
+- RTOS
+- UAVs
+- Telemetria
+- Tolerância a Falhas
+- Gravadores de Dados (Caixas Pretas)
+
+---
+
+# 🎯 Áreas de Interesse
+
+```txt
+💻 Desenvolvimento Web
+⚙️ Engenharia de Software
+🌐 APIs e Microsserviços
+☁️ Cloud Computing
+🗄️ Banco de Dados
+📡 Telemetria
+🚁 UAVs e VANTs
+🔒 Sistemas Críticos
+⚡ RTOS
+🛰️ Sistemas Embarcados
+```
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=igorgaah&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgaah&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=igorgaah&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 🌎 Conecte-se Comigo
+
+<div align="center">
+
+<a href="mailto:igorgaah@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/igorrafaelmmorais/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/igorrafaelmorais/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/igorgaah">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://igorrafaeldev.vercel.app">
+<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/srmustecho">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Filosofia
+
+> "Transformando problemas complexos em soluções eficientes através da engenharia de software."
+
+> "Código limpo, arquitetura sólida e aprendizado contínuo são os pilares de qualquer sistema de qualidade."
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=igorgaah&style=for-the-badge)
 
 </div>
