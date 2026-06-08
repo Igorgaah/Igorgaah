@@ -31,7 +31,7 @@
 const igor = {
   curso:       "Engenharia da Computação @ UNIFEI 🎓",
   localização: "Itajubá, Minas Gerais, Brasil 📍",
-  foco:        ["Full Stack", "Microsserviços", "Cloud Computing", "RTOS"],
+  foco:        ["Full Stack", "Microsserviços", "Cloud Computing"],
   empresas:    ["Honeywell", "NsTech (Comprovei)", "Equipe Digital", "UNIFEI"],
   filosofia:   "Código limpo, arquitetura sólida e aprendizado contínuo ⚡",
 };
