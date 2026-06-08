@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Igor%20Rafael%20Morais&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Engineering%20%40%20UNIFEI&descColor=c084fc&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Igor%20Rafael%20Marcelo%20Morais&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Engineering%20%40%20UNIFEI&descColor=c084fc&descAlignY=58&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A259FF&center=true&vCenter=true&width=600&lines=Transformando+problemas+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80;Full+Stack+%7C+Embarcados+%7C+UAVs+%F0%9F%9A%81;Clean+code%2C+solid+architecture+%E2%9A%A1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A259FF&center=true&vCenter=true&width=600&lines=Transformando+problemas+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80;Full+Stack+Developer+%7C+UNIFEI+%F0%9F%8E%93;Clean+code%2C+solid+architecture+%E2%9A%A1)
 
 </div>
 
@@ -25,13 +25,13 @@
 
 ---
 
-## `$ whoami`
+## 👤 whoami
 
 ```typescript
 const igor = {
   curso:       "Engenharia da Computação @ UNIFEI 🎓",
   localização: "Itajubá, Minas Gerais, Brasil 📍",
-  foco:        ["Full Stack", "Sistemas Embarcados", "UAVs", "RTOS"],
+  foco:        ["Full Stack", "Microsserviços", "Cloud Computing", "RTOS"],
   empresas:    ["Honeywell", "NsTech (Comprovei)", "Equipe Digital", "UNIFEI"],
   filosofia:   "Código limpo, arquitetura sólida e aprendizado contínuo ⚡",
 };
@@ -39,7 +39,7 @@ const igor = {
 
 ---
 
-## `$ stack --current`
+## 🟣 Stack Atual
 
 > Ferramentas que uso no dia a dia 👇
 
@@ -54,9 +54,9 @@ const igor = {
 
 ---
 
-## `$ stack --full`
+## 🛠️ Arsenal Completo
 
-> O arsenal completo 🛠️
+> Todas as tecnologias que já usei em projetos reais 👇
 
 <div align="center">
 
@@ -74,7 +74,7 @@ const igor = {
 
 ---
 
-## `$ experience --list`
+## 💼 Experiência Profissional
 
 <details>
 <summary><b>🟣 Honeywell — Front-End & Microsserviços</b></summary>
@@ -124,36 +124,27 @@ const igor = {
 
 ---
 
-## `$ currently --learning`
+## 📚 Estudando Agora
 
-```bash
-📦  .NET 8
-🏗️  Arquitetura de Microsserviços
-🔌  Sistemas Embarcados
-⏱️  RTOS
-📡  Telemetria para UAVs
-🛡️  Tolerância a Falhas
-🐳  Docker (nível avançado)
-🐧  Linux (profundo)
-```
+- 📦 .NET 8
+- 🏗️ Arquitetura de Microsserviços
+- 🛡️ Tolerância a Falhas
+- 🐳 Docker (nível avançado)
+- 🐧 Linux (profundo)
 
 ---
 
-## `$ interests --all`
+## 🎯 Interesses
 
 <div align="center">
 
-`💻 Dev Web` &nbsp; `⚙️ Eng. de Software` &nbsp; `🌐 APIs & Microsserviços` &nbsp; `☁️ Cloud Computing`
-
-`🗄️ Banco de Dados` &nbsp; `📡 Telemetria` &nbsp; `🚁 UAVs & VANTs` &nbsp; `🔒 Sistemas Críticos`
-
-`⚡ RTOS` &nbsp; `🛰️ Sistemas Embarcados` &nbsp; `🔬 Pesquisa Científica`
+💻 Dev Web &nbsp;|&nbsp; ⚙️ Eng. de Software &nbsp;|&nbsp; 🌐 APIs & Microsserviços &nbsp;|&nbsp; ☁️ Cloud Computing &nbsp;|&nbsp; 🗄️ Banco de Dados &nbsp;|&nbsp; 🔬 Pesquisa Científica
 
 </div>
 
 ---
 
-## `$ github --stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
