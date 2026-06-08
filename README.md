@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Desenvolvedor Full Stack | Estudante de Engenharia da Computação | Sistemas Embarcados & VANTs
+### 🚀 Desenvolvedor Full Stack | Estudante de Engenharia da Computação 
 
 📍 Itajubá - Minas Gerais, Brasil
 
