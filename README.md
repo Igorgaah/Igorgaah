@@ -136,7 +136,7 @@
 
 # 💼 Experiência Profissional
 
-## 🏢 Equipe Digital (Atual)
+## 🏢 Equipe Digital
 
 - Desenvolvimento e manutenção de aplicações web utilizando PHP
 - Criação e consumo de APIs RESTful
