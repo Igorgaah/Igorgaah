@@ -1,304 +1,193 @@
-# 👨‍💻 Igor Rafael Marcelo Morais
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Igor%20Rafael%20Morais&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Engineering%20%40%20UNIFEI&descColor=c084fc&descAlignY=58&animation=fadeIn" />
+
+</div>
 
 <div align="center">
 
-### 🚀 Desenvolvedor Full Stack | Estudante de Engenharia da Computação 
-
-📍 Itajubá - Minas Gerais, Brasil
-
-*"Transformando problemas complexos em soluções eficientes através da engenharia de software."*
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=igorgaah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgaah&layout=compact&theme=tokyonight"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A259FF&center=true&vCenter=true&width=600&lines=Transformando+problemas+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80;Full+Stack+%7C+Embarcados+%7C+UAVs+%F0%9F%9A%81;Clean+code%2C+solid+architecture+%E2%9A%A1)
 
 </div>
 
 ---
 
-# 🚀 Sobre Mim
-
-🎓 Graduando em Engenharia da Computação pela UNIFEI.
-
-💼 Desenvolvedor Full Stack com experiência em desenvolvimento web, APIs RESTful, microsserviços, bancos de dados e integração entre sistemas.
-
-🏢 Experiência profissional em:
-
-- Honeywell
-- Comprovei by NsTech
-- Equipe Digital
-- Universidade Federal de Itajubá
-
-💡 Interesses:
-
-- Engenharia de Software
-- Sistemas Embarcados
-- RTOS
-- UAVs / VANTs
-- Telemetria
-- Sistemas Críticos
-- Cloud Computing
-- Arquitetura de Software
-- Microsserviços
-
----
-
-# ⚡ Stack Principal
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,dotnet,nestjs,nodejs,php,python,cpp,cs,mysql,postgres,mongodb,docker,git,linux" />
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-7c3aed?style=for-the-badge&logoColor=white)](https://igorrafaeldev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorrafaelmmorais/)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorgaah)
+[![Gmail](https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorgaah@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5b21b6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/srmustecho)
+[![Instagram](https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorrafaelmorais/)
 
 </div>
 
 ---
 
-# 🛠️ Tecnologias
+## `$ whoami`
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-<img width="10" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-
-</div>
-
----
-
-# 🔭 Atualmente Trabalhando Com
-
-- PHP
-- Laravel
-- APIs RESTful
-- MySQL
-- PostgreSQL
-- JavaScript
-- Bootstrap
-- Docker
-- Git/GitHub
-
----
-
-# 📚 Atualmente Estudando
-
-- .NET 8
-- Arquitetura de Microsserviços
-- Sistemas Embarcados
-- RTOS
-- Telemetria para UAVs
-- Tolerância a Falhas
-- Docker
-- Linux
-
----
-
-# 💼 Experiência Profissional
-
-## 🏢 Equipe Digital
-
-- Desenvolvimento e manutenção de aplicações web utilizando PHP
-- Criação e consumo de APIs RESTful
-- Integração entre sistemas
-- MySQL e PostgreSQL
-- Testes automatizados
-- Deploy e manutenção de servidores
-
-## 🏢 Comprovei by NsTech
-
-- Desenvolvimento Back-End
-- PHP
-- Node.js
-- Integração de sistemas
-- Correção de bugs
-- Implementação de novas funcionalidades
-
-## 🏢 Honeywell
-
-- Desenvolvimento Front-End com ReactJS
-- Microsserviços em Node.js
-- Integrações com APIs externas
-- Planejamento e execução de testes
-- Documentação técnica
-- Modelagem de processos
-
-## 🏢 Universidade Federal de Itajubá (UNIFEI)
-
-Projetos desenvolvidos:
-
-- Sistema de Reserva de Salas
-- Sistema de Cotas
-- Automação de processos
-- Sistemas Web Institucionais
-- WordPress
-- Docker
-- PHP e MySQL
-
----
-
-# 🚀 Projetos em Destaque
-
-### 🎓 Sistema de Reserva de Salas
-
-Sistema desenvolvido para gerenciamento de reservas acadêmicas na UNIFEI.
-
-### 🎓 Sistema de Cotas
-
-Sistema criado para auxiliar candidatos na identificação de categorias de cotas sociais.
-
-### 🌐 Landing Pages e Sistemas Web
-
-Projetos desenvolvidos como freelancer utilizando HTML, CSS, JavaScript e PHP.
-
-### 📚 Artigos Científicos
-
-Pesquisas envolvendo:
-
-- Sistemas Embarcados
-- RTOS
-- UAVs
-- Telemetria
-- Tolerância a Falhas
-- Gravadores de Dados (Caixas Pretas)
-
----
-
-# 🎯 Áreas de Interesse
-
-```txt
-💻 Desenvolvimento Web
-⚙️ Engenharia de Software
-🌐 APIs e Microsserviços
-☁️ Cloud Computing
-🗄️ Banco de Dados
-📡 Telemetria
-🚁 UAVs e VANTs
-🔒 Sistemas Críticos
-⚡ RTOS
-🛰️ Sistemas Embarcados
+```typescript
+const igor = {
+  curso:       "Engenharia da Computação @ UNIFEI 🎓",
+  localização: "Itajubá, Minas Gerais, Brasil 📍",
+  foco:        ["Full Stack", "Sistemas Embarcados", "UAVs", "RTOS"],
+  empresas:    ["Honeywell", "NsTech (Comprovei)", "Equipe Digital", "UNIFEI"],
+  filosofia:   "Código limpo, arquitetura sólida e aprendizado contínuo ⚡",
+};
 ```
 
 ---
 
-# 📊 Estatísticas GitHub
+## `$ stack --current`
+
+> Ferramentas que uso no dia a dia 👇
+
+![PHP](https://img.shields.io/badge/PHP-5b21b6?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-7c3aed?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5b21b6?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7c3aed?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5b21b6?style=flat-square&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7c3aed?style=flat-square&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5b21b6?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7c3aed?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## `$ stack --full`
+
+> O arsenal completo 🛠️
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=igorgaah&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgaah&layout=compact&theme=tokyonight"/>
+| Frontend | Backend | Banco de Dados | DevOps |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=a259ff) | ![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=flat-square&logo=node.js&logoColor=a259ff) | ![MySQL](https://img.shields.io/badge/MySQL-1a0533?style=flat-square&logo=mysql&logoColor=a259ff) | ![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=a259ff) |
+| ![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=next.js&logoColor=a259ff) | ![PHP](https://img.shields.io/badge/PHP-1a0533?style=flat-square&logo=php&logoColor=a259ff) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=a259ff) | ![Linux](https://img.shields.io/badge/Linux-1a0533?style=flat-square&logo=linux&logoColor=a259ff) |
+| ![Angular](https://img.shields.io/badge/Angular-1a0533?style=flat-square&logo=angular&logoColor=a259ff) | ![NestJS](https://img.shields.io/badge/NestJS-1a0533?style=flat-square&logo=nestjs&logoColor=a259ff) | ![MongoDB](https://img.shields.io/badge/MongoDB-1a0533?style=flat-square&logo=mongodb&logoColor=a259ff) | ![Git](https://img.shields.io/badge/Git-1a0533?style=flat-square&logo=git&logoColor=a259ff) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=a259ff) | ![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a259ff) | | |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a0533?style=flat-square&logo=bootstrap&logoColor=a259ff) | ![C++](https://img.shields.io/badge/C++-1a0533?style=flat-square&logo=cplusplus&logoColor=a259ff) | | |
+| | ![C#/.NET](https://img.shields.io/badge/C%23%2F.NET-1a0533?style=flat-square&logo=dotnet&logoColor=a259ff) | | |
+| | ![Laravel](https://img.shields.io/badge/Laravel-1a0533?style=flat-square&logo=laravel&logoColor=a259ff) | | |
 
 </div>
 
 ---
 
-# 🔥 Sequência de Contribuições
+## `$ experience --list`
+
+<details>
+<summary><b>🟣 Honeywell — Front-End & Microsserviços</b></summary>
+<br>
+
+- ⚛️ Desenvolvimento Front-End com **ReactJS**
+- 🔗 Microsserviços em **Node.js**
+- 🌐 Integrações com APIs externas
+- 🧪 Planejamento e execução de testes
+- 📄 Documentação técnica
+- 📊 Modelagem de processos
+
+</details>
+
+<details>
+<summary><b>🟣 Comprovei by NsTech — Back-End</b></summary>
+<br>
+
+- 🐘 Desenvolvimento Back-End com **PHP** e **Node.js**
+- 🔄 Integração entre sistemas
+- 🐛 Correção de bugs e novas features
+
+</details>
+
+<details>
+<summary><b>🟣 Equipe Digital — Full Stack</b></summary>
+<br>
+
+- 🌐 Desenvolvimento e manutenção de aplicações web (**PHP**)
+- 🔌 Criação e consumo de **APIs RESTful**
+- 🗄️ **MySQL** e **PostgreSQL**
+- 🧪 Testes automatizados
+- 🚀 Deploy e manutenção de servidores
+
+</details>
+
+<details>
+<summary><b>🟣 UNIFEI — Dev Institucional</b></summary>
+<br>
+
+- 🏫 Sistema de Reserva de Salas
+- 📋 Sistema de Cotas Sociais
+- ⚙️ Automação de processos
+- 🐳 Docker + WordPress + PHP + MySQL
+
+</details>
+
+---
+
+## `$ currently --learning`
+
+```bash
+📦  .NET 8
+🏗️  Arquitetura de Microsserviços
+🔌  Sistemas Embarcados
+⏱️  RTOS
+📡  Telemetria para UAVs
+🛡️  Tolerância a Falhas
+🐳  Docker (nível avançado)
+🐧  Linux (profundo)
+```
+
+---
+
+## `$ interests --all`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=igorgaah&theme=tokyonight"/>
+`💻 Dev Web` &nbsp; `⚙️ Eng. de Software` &nbsp; `🌐 APIs & Microsserviços` &nbsp; `☁️ Cloud Computing`
+
+`🗄️ Banco de Dados` &nbsp; `📡 Telemetria` &nbsp; `🚁 UAVs & VANTs` &nbsp; `🔒 Sistemas Críticos`
+
+`⚡ RTOS` &nbsp; `🛰️ Sistemas Embarcados` &nbsp; `🔬 Pesquisa Científica`
 
 </div>
 
 ---
 
-# 🐍 Contribuições
+## `$ github --stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorgaah&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=a259ff&icon_color=7c3aed&text_color=c084fc"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgaah&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a259ff&text_color=c084fc"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=igorgaah&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=a259ff&fire=7c3aed&currStreakLabel=c084fc&sideLabels=c084fc&dates=8b5cf6"/>
+
+</div>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
 
-# 🌎 Conecte-se Comigo
-
 <div align="center">
 
-<a href="mailto:igorgaah@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/igorrafaelmmorais/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/igorrafaelmorais/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/igorgaah">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://igorrafaeldev.vercel.app">
-<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/srmustecho">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=igorgaah&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
----
-
-# 💡 Filosofia
-
-> "Transformando problemas complexos em soluções eficientes através da engenharia de software."
-
-> "Código limpo, arquitetura sólida e aprendizado contínuo são os pilares de qualquer sistema de qualidade."
-
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=igorgaah&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer&fontColor=ffffff" />
 
 </div>
