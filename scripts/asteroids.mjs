@@ -58,7 +58,7 @@ const THEMES = {
   dark: {
     bg: "#0a0a0f",
     empty: "#16161f",
-    levels: ["", "#3b1f6e", "#5b2bb5", "#7c3aed", "#a259ff"],
+    levels: ["", "#4c2a8c", "#6331c4", "#7c3aed", "#a259ff"],
     ship: "#c084fc",
     bullet: "#f0e6ff",
     star: "#c4b5fd",
